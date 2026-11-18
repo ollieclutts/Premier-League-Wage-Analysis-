@@ -26,6 +26,4 @@ Small club sample, accounts ended at different dates, group companies v individu
 ## Tools
 SQLite, Navicat, SQL, Excel (Power Query), Power BI
 
-## Files
-- `[filename].sql`: queries used
-- `[filename]`: cleaned data
+
